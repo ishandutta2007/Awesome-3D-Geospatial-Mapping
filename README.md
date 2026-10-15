@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-3D-Geospatial-Mapping/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Geospatial-Mapping?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-3D-Geospatial-Mapping/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Geospatial-Mapping?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Geospatial-Mapping/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-3D-Geospatial-Mapping?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Geospatial-Mapping/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -63,82 +63,82 @@ The 3D geospatial web ecosystem features an extraordinary suite of mature open-s
 
 ### Ranked by GitHub Stargazers
 
-- **[CesiumJS](https://github.com/CesiumGS/cesium)** [![GitHub Stars](https://img.shields.io/github/stars/CesiumGS/cesium?style=social&color=white)](https://github.com/CesiumGS/cesium/stargazers)  
+- **[CesiumJS](https://github.com/CesiumGS/cesium)** [![GitHub_Stars](https://img.shields.io/github/stars/CesiumGS/cesium?style=social&color=white)](https://github.com/CesiumGS/cesium/stargazers)  
   Leading open-source JavaScript library for creating world-class 3D globes and 2D maps in a web browser using WebGL and WebGPU. Reference implementation for OGC 3D Tiles, terrain, time-dynamic data, CZML, glTF, and massive geospatial datasets (Apache 2.0).
 
-- **[deck.gl](https://github.com/visgl/deck.gl)** [![GitHub Stars](https://img.shields.io/github/stars/visgl/deck.gl?style=social&color=white)](https://github.com/visgl/deck.gl/stargazers)  
+- **[deck.gl](https://github.com/visgl/deck.gl)** [![GitHub_Stars](https://img.shields.io/github/stars/visgl/deck.gl?style=social&color=white)](https://github.com/visgl/deck.gl/stargazers)  
   High-performance WebGL2/WebGPU powered data visualization framework designed for large-scale exploratory data analysis and 3D geospatial visual analytics (often paired with MapLibre or Cesium).
 
-- **[QGIS](https://github.com/qgis/QGIS)** [![GitHub Stars](https://img.shields.io/github/stars/qgis/QGIS?style=social&color=white)](https://github.com/qgis/QGIS/stargazers)  
+- **[QGIS](https://github.com/qgis/QGIS)** [![GitHub_Stars](https://img.shields.io/github/stars/qgis/QGIS?style=social&color=white)](https://github.com/qgis/QGIS/stargazers)  
   Leading open-source desktop Geographic Information System (GIS) with native 3D visualization canvas, 3D Tiles support, point cloud handling, and an extensive ecosystem of analysis plugins.
 
-- **[OpenLayers](https://github.com/openlayers/openlayers)** [![GitHub Stars](https://img.shields.io/github/stars/openlayers/openlayers?style=social&color=white)](https://github.com/openlayers/openlayers/stargazers)  
+- **[OpenLayers](https://github.com/openlayers/openlayers)** [![GitHub_Stars](https://img.shields.io/github/stars/openlayers/openlayers?style=social&color=white)](https://github.com/openlayers/openlayers/stargazers)  
   Mature, high-performance web mapping library supporting OGC standards, vector tiles, projections, and rich 2D/2.5D geospatial visualization across web and mobile browsers.
 
-- **[kepler.gl](https://github.com/keplergl/kepler.gl)** [![GitHub Stars](https://img.shields.io/github/stars/keplergl/kepler.gl?style=social&color=white)](https://github.com/keplergl/kepler.gl/stargazers)  
+- **[kepler.gl](https://github.com/keplergl/kepler.gl)** [![GitHub_Stars](https://img.shields.io/github/stars/keplergl/kepler.gl?style=social&color=white)](https://github.com/keplergl/kepler.gl/stargazers)  
   Data-agnostic, high-performance web-based spatial analysis application built on top of deck.gl for interactive rendering of massive multi-million point 2D and 3D location datasets.
 
-- **[MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js)** [![GitHub Stars](https://img.shields.io/github/stars/maplibre/maplibre-gl-js?style=social&color=white)](https://github.com/maplibre/maplibre-gl-js/stargazers)  
+- **[MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js)** [![GitHub_Stars](https://img.shields.io/github/stars/maplibre/maplibre-gl-js?style=social&color=white)](https://github.com/maplibre/maplibre-gl-js/stargazers)  
   Community-governed open-source fork of Mapbox GL JS providing ultra-fast client-side vector maps, 3D terrain elevation, building extrusions, and globe projection views without proprietary licensing.
 
-- **[H3](https://github.com/uber/h3)** [![GitHub Stars](https://img.shields.io/github/stars/uber/h3?style=social&color=white)](https://github.com/uber/h3/stargazers)  
+- **[H3](https://github.com/uber/h3)** [![GitHub_Stars](https://img.shields.io/github/stars/uber/h3?style=social&color=white)](https://github.com/uber/h3/stargazers)  
   Hexagonal hierarchical spatial index developed by Uber for grid-based spatial aggregation, geospatial partitioning, and fast hexagonal 3D spatial analytics across planetary scales.
 
-- **[OpenDroneMap (ODM)](https://github.com/OpenDroneMap/ODM)** [![GitHub Stars](https://img.shields.io/github/stars/OpenDroneMap/ODM?style=social&color=white)](https://github.com/OpenDroneMap/ODM/stargazers)  
+- **[OpenDroneMap (ODM)](https://github.com/OpenDroneMap/ODM)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenDroneMap/ODM?style=social&color=white)](https://github.com/OpenDroneMap/ODM/stargazers)  
   Open-source photogrammetry pipeline for processing aerial drone imagery into georeferenced orthophotos, digital elevation models (DEM), 3D point clouds, and textured 3D meshes.
 
-- **[GDAL](https://github.com/OSGeo/gdal)** [![GitHub Stars](https://img.shields.io/github/stars/OSGeo/gdal?style=social&color=white)](https://github.com/OSGeo/gdal/stargazers)  
+- **[GDAL](https://github.com/OSGeo/gdal)** [![GitHub_Stars](https://img.shields.io/github/stars/OSGeo/gdal?style=social&color=white)](https://github.com/OSGeo/gdal/stargazers)  
   The foundational translator library for raster and vector geospatial data formats, underpinning virtually the entire geospatial software and 3D GIS industry.
 
-- **[Potree](https://github.com/potree/potree)** [![GitHub Stars](https://img.shields.io/github/stars/potree/potree?style=social&color=white)](https://github.com/potree/potree/stargazers)  
+- **[Potree](https://github.com/potree/potree)** [![GitHub_Stars](https://img.shields.io/github/stars/potree/potree?style=social&color=white)](https://github.com/potree/potree/stargazers)  
   Leading open-source WebGL point cloud renderer designed specifically for streaming and rendering billions of LiDAR points and massive photogrammetry scans directly in web browsers.
 
-- **[GeoServer](https://github.com/geoserver/geoserver)** [![GitHub Stars](https://img.shields.io/github/stars/geoserver/geoserver?style=social&color=white)](https://github.com/geoserver/geoserver/stargazers)  
+- **[GeoServer](https://github.com/geoserver/geoserver)** [![GitHub_Stars](https://img.shields.io/github/stars/geoserver/geoserver?style=social&color=white)](https://github.com/geoserver/geoserver/stargazers)  
   Java-based open-source software server that allows users to share, process, and edit geospatial data across open standards such as WMS, WFS, WCS, and 3D Tiles.
 
-- **[geemap](https://github.com/gee-community/geemap)** [![GitHub Stars](https://img.shields.io/github/stars/gee-community/geemap?style=social&color=white)](https://github.com/gee-community/geemap/stargazers)  
+- **[geemap](https://github.com/gee-community/geemap)** [![GitHub_Stars](https://img.shields.io/github/stars/gee-community/geemap?style=social&color=white)](https://github.com/gee-community/geemap/stargazers)  
   Python package for interactive geospatial analysis and visualization with Google Earth Engine, ipyleaflet, and pydeck, enabling seamless cloud-based raster and 3D terrain exploration.
 
-- **[3D Tiles Specification](https://github.com/CesiumGS/3d-tiles)** [![GitHub Stars](https://img.shields.io/github/stars/CesiumGS/3d-tiles?style=social&color=white)](https://github.com/CesiumGS/3d-tiles/stargazers)  
+- **[3D Tiles Specification](https://github.com/CesiumGS/3d-tiles)** [![GitHub_Stars](https://img.shields.io/github/stars/CesiumGS/3d-tiles?style=social&color=white)](https://github.com/CesiumGS/3d-tiles/stargazers)  
   Official Open Geospatial Consortium (OGC) standard specification for streaming massive, heterogeneous 3D geospatial datasets including building models, photogrammetry, and point clouds.
 
-- **[3d-tiles-renderer](https://github.com/NASA-AMMOS/3DTilesRendererJS)** [![GitHub Stars](https://img.shields.io/github/stars/NASA-AMMOS/3DTilesRendererJS?style=social&color=white)](https://github.com/NASA-AMMOS/3DTilesRendererJS/stargazers)  
+- **[3d-tiles-renderer](https://github.com/NASA-AMMOS/3DTilesRendererJS)** [![GitHub_Stars](https://img.shields.io/github/stars/NASA-AMMOS/3DTilesRendererJS?style=social&color=white)](https://github.com/NASA-AMMOS/3DTilesRendererJS/stargazers)  
   Three.js-based renderer for OGC 3D Tiles developed by NASA-AMMOS, enabling efficient hierarchical Level of Detail (LOD) streaming and rendering of massive 3D geospatial content.
 
-- **[PostGIS](https://github.com/postgis/postgis)** [![GitHub Stars](https://img.shields.io/github/stars/postgis/postgis?style=social&color=white)](https://github.com/postgis/postgis/stargazers)  
+- **[PostGIS](https://github.com/postgis/postgis)** [![GitHub_Stars](https://img.shields.io/github/stars/postgis/postgis?style=social&color=white)](https://github.com/postgis/postgis/stargazers)  
   Spatial database extender for PostgreSQL that adds native support for spatial geometries, 3D point clouds, spatial indexing, and advanced spatial SQL functions.
 
-- **[osgEarth](https://github.com/gwaldron/osgearth)** [![GitHub Stars](https://img.shields.io/github/stars/gwaldron/osgearth?style=social&color=white)](https://github.com/gwaldron/osgearth/stargazers)  
+- **[osgEarth](https://github.com/gwaldron/osgearth)** [![GitHub_Stars](https://img.shields.io/github/stars/gwaldron/osgearth?style=social&color=white)](https://github.com/gwaldron/osgearth/stargazers)  
   High-performance open-source C++ 3D terrain and geospatial rendering SDK built on OpenSceneGraph, widely deployed in desktop simulators, defense, and embedded GIS systems.
 
-- **[PDAL](https://github.com/PDAL/PDAL)** [![GitHub Stars](https://img.shields.io/github/stars/PDAL/PDAL?style=social&color=white)](https://github.com/PDAL/PDAL/stargazers)  
+- **[PDAL](https://github.com/PDAL/PDAL)** [![GitHub_Stars](https://img.shields.io/github/stars/PDAL/PDAL?style=social&color=white)](https://github.com/PDAL/PDAL/stargazers)  
   Point Data Abstraction Library (C++), providing composable command-line tools and C++ APIs for translating, filtering, tiling, and transforming massive point cloud (LiDAR) datasets.
 
-- **[TerriaJS](https://github.com/TerriaJS/terriajs)** [![GitHub Stars](https://img.shields.io/github/stars/TerriaJS/terriajs?style=social&color=white)](https://github.com/TerriaJS/terriajs/stargazers)  
+- **[TerriaJS](https://github.com/TerriaJS/terriajs)** [![GitHub_Stars](https://img.shields.io/github/stars/TerriaJS/terriajs?style=social&color=white)](https://github.com/TerriaJS/terriajs/stargazers)  
   Open-source framework for building rich web-based spatial data catalogs, digital twins, and federated 3D mapping portals (powers Australia's NationalMap).
 
-- **[Procedural GL JS](https://github.com/felixpalmer/procedural-gl-js)** [![GitHub Stars](https://img.shields.io/github/stars/felixpalmer/procedural-gl-js?style=social&color=white)](https://github.com/felixpalmer/procedural-gl-js/stargazers)  
+- **[Procedural GL JS](https://github.com/felixpalmer/procedural-gl-js)** [![GitHub_Stars](https://img.shields.io/github/stars/felixpalmer/procedural-gl-js?style=social&color=white)](https://github.com/felixpalmer/procedural-gl-js/stargazers)  
   Fast, lightweight WebGL library for rendering 3D terrain and elevation maps with mobile-friendly controls and smooth camera navigation.
 
-- **[harp.gl](https://github.com/heremaps/harp.gl)** [![GitHub Stars](https://img.shields.io/github/stars/heremaps/harp.gl?style=social&color=white)](https://github.com/heremaps/harp.gl/stargazers)  
+- **[harp.gl](https://github.com/heremaps/harp.gl)** [![GitHub_Stars](https://img.shields.io/github/stars/heremaps/harp.gl?style=social&color=white)](https://github.com/heremaps/harp.gl/stargazers)  
   3D web map rendering engine developed by HERE Technologies based on Three.js, supporting 3D buildings, terrain, and custom styling.
 
-- **[iTowns](https://github.com/iTowns/itowns)** [![GitHub Stars](https://img.shields.io/github/stars/iTowns/itowns?style=social&color=white)](https://github.com/iTowns/itowns/stargazers)  
+- **[iTowns](https://github.com/iTowns/itowns)** [![GitHub_Stars](https://img.shields.io/github/stars/iTowns/itowns?style=social&color=white)](https://github.com/iTowns/itowns/stargazers)  
   Three.js-based framework for visualizing 3D geospatial data, including 3D Tiles, point clouds, raster layers, and atmospheric models.
 
-- **[Cesium for Unreal](https://github.com/CesiumGS/cesium-unreal)** [![GitHub Stars](https://img.shields.io/github/stars/CesiumGS/cesium-unreal?style=social&color=white)](https://github.com/CesiumGS/cesium-unreal/stargazers)  
+- **[Cesium for Unreal](https://github.com/CesiumGS/cesium-unreal)** [![GitHub_Stars](https://img.shields.io/github/stars/CesiumGS/cesium-unreal?style=social&color=white)](https://github.com/CesiumGS/cesium-unreal/stargazers)  
   Plugin bringing high-accuracy 3D geospatial data, OGC 3D Tiles, and global real-scale terrain streaming into Unreal Engine 5.
 
-- **[Generic Mapping Tools (GMT)](https://github.com/GenericMappingTools/gmt)** [![GitHub Stars](https://img.shields.io/github/stars/GenericMappingTools/gmt?style=social&color=white)](https://github.com/GenericMappingTools/gmt/stargazers)  
+- **[Generic Mapping Tools (GMT)](https://github.com/GenericMappingTools/gmt)** [![GitHub_Stars](https://img.shields.io/github/stars/GenericMappingTools/gmt?style=social&color=white)](https://github.com/GenericMappingTools/gmt/stargazers)  
   Comprehensive open-source collection of tools for processing and displaying geographic and Cartesian data, synthesizing bathymetry, 3D perspective surfaces, and planetary illustrations.
 
-- **[loaders.gl](https://github.com/visgl/loaders.gl)** [![GitHub Stars](https://img.shields.io/github/stars/visgl/loaders.gl?style=social&color=white)](https://github.com/visgl/loaders.gl/stargazers)  
+- **[loaders.gl](https://github.com/visgl/loaders.gl)** [![GitHub_Stars](https://img.shields.io/github/stars/visgl/loaders.gl?style=social&color=white)](https://github.com/visgl/loaders.gl/stargazers)  
   Suite of high-performance loaders and writers for 3D Tiles, point clouds, glTF, meshes, and tabular geospatial file formats.
 
-- **[Cesium Native](https://github.com/CesiumGS/cesium-native)** [![GitHub Stars](https://img.shields.io/github/stars/CesiumGS/cesium-native?style=social&color=white)](https://github.com/CesiumGS/cesium-native/stargazers)  
+- **[Cesium Native](https://github.com/CesiumGS/cesium-native)** [![GitHub_Stars](https://img.shields.io/github/stars/CesiumGS/cesium-native?style=social&color=white)](https://github.com/CesiumGS/cesium-native/stargazers)  
   Complete suite of native C++ libraries for 3D Tiles and geospatial runtimes, powering Cesium integrations in Unreal Engine and Unity.
 
-- **[Giro3D](https://github.com/giro3d-org/giro3d)** [![GitHub Stars](https://img.shields.io/github/stars/giro3d-org/giro3d?style=social&color=white)](https://github.com/giro3d-org/giro3d/stargazers)  
+- **[Giro3D](https://github.com/giro3d-org/giro3d)** [![GitHub_Stars](https://img.shields.io/github/stars/giro3d-org/giro3d?style=social&color=white)](https://github.com/giro3d-org/giro3d/stargazers)  
   Extensible and configurable Three.js-based 2D/3D geospatial visualization framework supporting 3D Tiles, point clouds, and elevation models.
 
 ---
