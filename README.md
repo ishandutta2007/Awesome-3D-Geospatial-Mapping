@@ -28,7 +28,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
@@ -38,65 +39,24 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+## Sector Overview & Market Dynamics
+
+The global 3D geospatial mapping and modeling market is estimated at approximately $10B to $18B in 2026, expanding at a robust double-digit CAGR of 10%–14% fueled by digital twin initiatives, smart cities, cloud GIS infrastructure, and autonomous spatial workflows. The sector is moderately fragmented rather than winner-take-all: traditional enterprise leaders (Esri, Trimble, Hexagon, Bentley) anchor public-sector, surveying, and engineering domains, while high-growth cloud-native and space-tech platforms (Planet Labs, Mapbox, Cesium ion, CARTO) capture specialized segments in web tiling, streaming APIs, satellite observation, and warehouse-native spatial intelligence.
+
 ## SaaS/Hosted Platforms
 
-- **[Google Earth Enterprise](https://earth.google.com/)**  
-
-  Enterprise-grade 3D globe and geospatial visualization platform with high-resolution imagery, terrain, and custom data layering (historically available for on-premises deployment).
-
-
-
-- **[Esri ArcGIS Enterprise](https://www.esri.com/en-us/arcgis/products/arcgis-enterprise/overview)**  
-
-  Comprehensive enterprise GIS platform with powerful 3D scene capabilities, I3S scene layers, 3D Tiles support, analysis tools, and multi-user collaboration.
-
-
-
-- **[Cesium ion](https://cesium.com/platform/cesium-ion/)**  
-
-  Cloud platform for tiling, hosting, and streaming 3D geospatial content (terrain, imagery, 3D Tiles, photogrammetry) optimized for CesiumJS and other clients.
-
-
-
-- **[Mapbox Enterprise](https://www.mapbox.com/)**  
-
-  High-performance vector and 3D mapping platform with custom styling, terrain, building extrusions, and enterprise SLAs for web and mobile applications.
-
-
-
-- **[Planet Labs](https://www.planet.com/)**  
-
-  Satellite imagery and analytics platform providing frequent global coverage and APIs for monitoring change on Earth.
-
-
-
-- **[Nearmap](https://www.nearmap.com/)**  
-
-  High-resolution aerial imagery and 3D content platform focused on frequent updates for urban and infrastructure use cases.
-
-
-
-- **[Bentley Systems](https://www.bentley.com/)**  
-
-  Infrastructure engineering software suite with strong 3D reality modeling, digital twin, and geospatial visualization capabilities (ContextCapture, iTwin, etc.).
-
-
-
-- **[Hexagon Geospatial](https://www.hexagon.com/products/product-groups/geospatial)**  
-
-  Enterprise geospatial and remote-sensing platform for imagery management, photogrammetry, and 3D mapping workflows.
-
-
-
-- **[Carto](https://carto.com/)**  
-
-  Cloud-native location intelligence and spatial analytics platform with strong visualization and data enrichment capabilities.
-
-
-
-- **[Trimble Cloud](https://www.trimble.com/)**  
-
-  Cloud services and geospatial solutions for surveying, construction, and 3D reality capture integrated with Trimble hardware and software.
+| Platform | Company Scale (Valuation / Revenue) | Starting Pricing | Free Tier Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Google Earth Enterprise / Maps Platform](https://earth.google.com/)** | ~$2.0T+ Market Cap (Alphabet) / $350B+ Rev | $6.00 per 1,000 requests (Photorealistic 3D Tiles) | 1,000 root tile requests free per month (along with $200 monthly recurring Maps credit) | Enterprise-grade 3D globe and geospatial visualization platform with high-resolution imagery, terrain, and custom data layering (historically available for on-premises deployment). |
+| **[Hexagon Geospatial](https://www.hexagon.com/products/product-groups/geospatial)** | ~$26B Market Cap (SEK 279B) / €5.4B Rev | Custom enterprise licensing (HxGN Content streaming tiers vary) | 10-day free trial (HxGN Content Program aerial imagery streaming) & free trial access for Luciad Developer Platform APIs | Enterprise geospatial and remote-sensing platform for imagery management, photogrammetry, and 3D mapping workflows. |
+| **[Trimble Cloud](https://www.trimble.com/)** | ~$14B Market Cap / $3.8B Rev | $10.00 / user / month (Trimble Connect Business) | Free forever (Trimble Connect Personal: 1 active project, up to 5 team members, 10 GB cloud storage) | Cloud services and geospatial solutions for surveying, construction, and 3D reality capture integrated with Trimble hardware and software. |
+| **[Bentley Systems](https://www.bentley.com/)** | ~$10.8B Market Cap / $1.5B ARR | $199.00 / month (iTwin Platform Standard tier) | Free forever (iTwin Community: 100 credits/month, 10 GB cloud storage, 100 GB reality data storage; 30-day free trial for iTwin Capture) | Infrastructure engineering software suite with strong 3D reality modeling, digital twin, and geospatial visualization capabilities (ContextCapture, iTwin, etc.). |
+| **[Planet Labs](https://www.planet.com/)** | ~$6.0B Market Cap / $308M Rev | $2,700.00 / year (~$225.00/month baseline monitoring packages) | 30-day free trial (Planet Insights Platform: 3,000 monitoring credits, Sentinel/Landsat access, sandbox datasets; no credit card required) | Satellite imagery and analytics platform providing frequent global coverage and APIs for monitoring change on Earth. |
+| **[Esri ArcGIS Enterprise](https://www.esri.com/en-us/arcgis/products/arcgis-enterprise/overview)** | ~$4.0B+ Private Valuation / $1.3B Rev | $500.00 / user / year (~$41.67/month for ArcGIS Online Creator) | 21-day free trial (ArcGIS Online: includes 200 service credits, up to 5 named users, and full app suite access) | Comprehensive enterprise GIS platform with powerful 3D scene capabilities, I3S scene layers, 3D Tiles support, analysis tools, and multi-user collaboration. |
+| **[Mapbox Enterprise](https://www.mapbox.com/)** | ~$1.3B Valuation (Series E) / ~$150M+ ARR | Pay-as-you-go starting at $5.00 per 1,000 loads beyond free tier | Free forever (50,000 web map loads/month, 100,000 Geocoding/Directions API requests/month, 25,000 mobile MAUs) | High-performance vector and 3D mapping platform with custom styling, terrain, building extrusions, and enterprise SLAs for web and mobile applications. |
+| **[Nearmap](https://www.nearmap.com/)** | ~$700M Acquisition Valuation (AUD $1.055B) / ~$160M Rev | Custom enterprise quote (typically $2,000+ to $5,000+ annual subscription minimum) | Guided evaluation access & free product demo upon sales request (no permanent free tier or automated self-serve trial) | High-resolution aerial imagery and 3D content platform focused on frequent updates for urban and infrastructure use cases. |
+| **[Carto](https://carto.com/)** | ~$350M–$500M Est. Valuation / ~$55M Rev | Custom enterprise tier / commitments (~$10,000+/year typical enterprise package) | 30-day free trial (Full platform functionality, Builder access, cloud warehouse connections; no credit card required) | Cloud-native location intelligence and spatial analytics platform with strong visualization and data enrichment capabilities. |
+| **[Cesium ion](https://cesium.com/platform/cesium-ion/)** | Integrated into Bentley Systems ($10.8B) / ~$7.4M historical rev | $149.00 / month (Commercial Individual plan) | Free forever (Cesium ion Community: non-commercial evaluation, 5 GB storage, global terrain & imagery streaming access) | Cloud platform for tiling, hosting, and streaming 3D geospatial content (terrain, imagery, 3D Tiles, photogrammetry) optimized for CesiumJS and other clients. |
 
 
 
